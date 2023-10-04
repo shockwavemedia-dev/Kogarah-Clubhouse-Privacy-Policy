@@ -6,7 +6,7 @@ export default function Home() {
     <main className="flex h-screen items-center justify-between">
       {/* <div className="z-10 w-full items-center justify-between font-mono text-sm lg:flex"> */}
       <Iframe
-        url="http://localhost:3000/assets/index.htm"
+        url="/assets/index.htm"
         width="100%"
         height="100%"
         id=""
